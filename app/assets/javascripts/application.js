@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
-//= require_tree .
+//= require jquery.readyselector
+//= require jquery.externalscript
+//= require registrations
